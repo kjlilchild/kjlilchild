@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kjlilchild
 - 👀 I’m interested in ... turning my Power Engineering skills and career into a development career! Self-Teaching everyday.
 - 🌱 I’m currently learning ...Ruby/Rails and C/C++
-- 💞️ I’m looking to collaborate on ...Ahy Projects. I would love to come join a team of winners ready to take a chance on a big splash! :)
+- 💞️ I’m looking to collaborate on ...Any Projects. I would love to come join a team of winners ready to take a chance on a big splash! :)
 - 📫 How to reach me ...email me @ kodylittlechild@gmail.com! Take care and all the best!
 
 <!---
