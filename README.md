@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kjlilchild or Kody Littlechild
+- 👋 Hi, I’m @kjlilchild
 - 👀 I’m interested in ... turning my Power Engineering skills and career into a development career! Self-Teaching everyday.
 - 🌱 I’m currently learning ...Ruby/Rails , C/C++, JS/HTML/CSS
 - 💞️ I’m looking to collaborate on ...Any Projects. I would love to come join a team of winners ready to take a chance on a big splash! Lets Change the World (or others) Together! :)
